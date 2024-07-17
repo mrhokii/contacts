@@ -1,0 +1,28 @@
+input[type= "text"]::placeholder,
+input[type= "number"]::placeholder,
+input[type= "email"]::placeholder,
+.form-control{
+    color: #F8F8F2;
+    background-color: #44475A;
+    border-color: #BD93F9;
+}
+body{
+    background-color: #282E36;
+}
+.input-group-text:hover{
+    cursor: pointer;
+}
+.btn-no{
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    margin-right: 15px;
+}
+.btn-ok{
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    margin-right: 15px;
+}

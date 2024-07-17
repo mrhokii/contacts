@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "id": "0280",
+      "fullname": "حسین محمدی",
+      "photo": "https://th.bing.com/th/id/R.810a580c6e2b4efa8665e3ea3ec53abd?rik=rEptTcmOPuVnBg&pid=ImgRaw&r=0",
+      "mobile": "0911111111111",
+      "email": "wedfer@gmail.com",
+      "job": "مهندس",
+      "group": ""
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "فامیل"
+    },
+    {
+      "id": "3",
+      "name": "دوست"
+    },
+    {
+      "id": "4",
+      "name": "آشنا"
+    },
+    {
+      "id": "5",
+      "name": "سرویس"
+    }
+  ]
+}
